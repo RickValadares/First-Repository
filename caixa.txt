@@ -1,0 +1,6 @@
+uva cenoura
+melancia
+lima
+cat caixa.txt
+cat exemplo.txt
+cat frutas1.txt
